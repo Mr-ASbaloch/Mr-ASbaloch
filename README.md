@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Saeed</h1>
 <h3 align="center">An enthusiastic web developer specializing in frontend technologies</h3>
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
+
+ <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-asbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="mr-asbaloch" /> </p>
 
 - 👨‍💻 All of my projects are available at [abdulsaeedbaloch.netlify.app](abdulsaeedbaloch.netlify.app)
