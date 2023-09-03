@@ -1,11 +1,20 @@
 ![](https://github.com/Mr-ASbaloch/Mr-ASbaloch/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">print("Hi 👋, I'm Abdul Saeed")
 </h1>
-<h3 align="center">An enthusiastic web developer specializing in frontend technologies</h3>
+<h3 align="center">An enthusiastic web developer specializing in frontend technologies  </h3>  <br> 
+<div align="center">
+ <h2>Profile Visits</h2>
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/Mr-ASbaloch/count.svg" />
+</p>  
+</div>  
+<br>
+<hr>
+
 
 
  <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-asbaloch&label=Profile%20views&color=0e75b6&style=flat" alt="mr-asbaloch" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [abdulsaeedbaloch.netlify.app](abdulsaeedbaloch.netlify.app)
 
