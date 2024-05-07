@@ -1,7 +1,7 @@
  
 <h1 align="center">print("Hi 👋, I'm Abdul Saeed")
 </h1>
-<h3 align="center">An enthusiastic web developer specializing in frontend technologies  </h3>  <br> 
+<h3 align="center">An enthusiastic web developer specializing in React native   </h3>  <br> 
 <div align="center">
  <h2>Profile Visits</h2>
  <p align="center"> 
